@@ -6,8 +6,3 @@ Este repositório contém exemplos básicos dos principais **layouts do Android*
 - RelativeLayout → posicionamento relativo
 - ConstraintLayout → layouts complexos e responsivos
 - RecyclerView → listas/grids dinâmicos
-
-## Como testar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/AndroidLayoutsExamples.git
